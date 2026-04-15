@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+build/
+DerivedData/
+*.pbxuser
+!project.pbxproj
+!*.xcscheme
+!xcschememanagement.plist
+
+# Large binaries
+*.a
+*.framework/
